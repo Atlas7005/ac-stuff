@@ -1,6 +1,6 @@
 **[`<-        back to home        `](README.md)**
 # AC Media
-Here's a bunch of interesting Assetto Corsa/simracing related videos, articles, and other content that I've found over the years. I'll try to keep this updated as I find more stuff.
+Here's a bunch of interesting Assetto Corsa/simracing related videos, links, and other content that I've found over the years. I'll try to keep this updated as I find more stuff.
 
 ## Links
 ### Mod websites
