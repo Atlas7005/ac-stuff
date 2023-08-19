@@ -11,3 +11,6 @@ A collection of track mods for Assetto Corsa.
 A collection of app mods for Assetto Corsa.
 ### [Misc](Misc.md)
 A collection of miscellaneous mods for Assetto Corsa.
+
+## [Hardware](Hardware.md)
+A collection of hardware related to Assetto Corsa & simracing. (Wheels, Pedals, Shifters, etc.)
