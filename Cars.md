@@ -12,6 +12,8 @@ Here's a bunch of interesting Assetto Corsa cars that I've found over the years.
 - [Tesla Model 3 Car Pack](https://www.racedepartment.com/downloads/2019-tesla-model-3-car-pack.45151/)
 - [Nissan Silvia S15 Garage Mak](https://www.assettoworld.com/car/nissan-silvia-s15-garage-mak)
 - [Nissan Silvia S15 Spec-R](https://www.assettoworld.com/car/nissan-silvia-spec-r-s15-street-s2)
+- [Nissan Skyline GT-R R34 Hell-Spec](https://www.assettoworld.com/car/nissan-gt-r-r34-hell-spec)
+- [Nissan Skyline GT-R R32 Hell-Spec](https://www.assettoworld.com/car/nissan-skyline-gtr-r32-hellspec)
 ### Drift
 **[`^        back to top        ^`](#ac-car-mods)**
 - [World Drift Tour (Street, Winter & Competition)](https://worlddrifttour.com/)
