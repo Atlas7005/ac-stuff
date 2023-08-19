@@ -3,6 +3,20 @@
 Here's a bunch of hardware for Assetto Corsa and simracing in general.
 
 ## Table of Contents
+- [Wheelbases](#wheelbases-some-include-rims)
+  - [Gear-driven Force Feedback Wheels (Low-end, not recommended for drifting)](#gear-driven-force-feedback-wheels-low-end-not-recommended-for-drifting)
+  - [Belt-driven Force Feedback Wheels (Medium-end, good overall)](#belt-driven-force-feedback-wheels-medium-end-good-overall)
+  - [Direct Drive Force Feedback Wheels (High-end)](#direct-drive-force-feedback-wheels-high-end)
+- [Pedals](#pedals)
+  - [Beginner Pedals](#beginner-pedals)
+  - [Load Cell Pedals](#load-cell-pedals)
+- [Shifters](#shifters)
+  - [H-Pattern](#h-pattern)
+  - [Sequential](#sequential)
+- [Handbrakes](#handbrakes)
+- [Cockpits](#cockpits)
+  - [Stands](#stands)
+  - [Rigs](#rigs)
 
 ## Wheelbases (some include rims)
 ### Gear-driven Force Feedback Wheels (Low-end, not recommended for drifting)
