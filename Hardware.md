@@ -54,6 +54,7 @@ Here's a bunch of hardware for Assetto Corsa and simracing in general.
 ## Shifters
 ### H-Pattern
 **[`^        back to top        ^`](#ac-hardware)**
+- [Logitech G Driving Force Shifter](https://www.logitechg.com/en-us/products/driving/driving-force-shifter.html) - Requires an adapter to work without a Logitech wheel
 - [SHH NEWT2](https://www.shiftershh.com/en/black/47-1298-newt.html)
 - [Thrustmaster TH8A](https://www.thrustmaster.com/en-us/products/th8a-shifter-add-on/)
 - [Fanatec Clubsport Shifter](https://fanatec.com/eu-en/shifters-others/clubsport-shifter-sq-v-1.5)
