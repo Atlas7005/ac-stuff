@@ -10,6 +10,7 @@ Here's a bunch of interesting Assetto Corsa cars that I've found over the years.
 ### Driving/Racing
 **[`^        back to top        ^`](#ac-car-mods)**
 - [Shutoko Revival Project Car Pack](https://discord.gg/shutokorevivalproject)
+- [No Hesi Car Pack](https://gofile.io/d/ikRT8A)
 - [Aegis Visuals](https://www.patreon.com/aegisvisuals/posts)
 - [Honda NSX](https://www.racedepartment.com/downloads/honda-nsx.4768/)
 - [2007 Subaru Impreza WRX (GD)](https://www.racedepartment.com/downloads/2007-subaru-impreza-wrx-gd-tuned.33356/)
