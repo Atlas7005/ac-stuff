@@ -2,6 +2,16 @@
 # AC Media
 Here's a bunch of interesting Assetto Corsa/simracing related videos, links, and other content that I've found over the years. I'll try to keep this updated as I find more stuff.
 
+## Table of Contents
+- [Links](#links)
+  - [Mod websites](#mod-websites)
+- [Videos](#videos)
+  - [Tutorials](#tutorials)
+  - [Cinematics](#cinematics)
+- [Music](#music)
+  - [Spotify Playlists](#spotify-playlists)
+- [Screenshots](#screenshots)
+
 ## Links
 ### Mod websites
 **[`^        back to top        ^`](#ac-media)**
