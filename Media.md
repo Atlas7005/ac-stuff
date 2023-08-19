@@ -21,3 +21,5 @@ Here's a bunch of interesting Assetto Corsa/simracing related videos, links, and
 - [3 AM / ASSETTO CORSA](https://www.youtube.com/watch?v=zTypuLr5sNE) - demerov
 - [Welcome To The Midnight Club | Assetto Corsa Cinematic |](https://www.youtube.com/watch?v=BqYg8DI_uoI) - Amatertu
 - [NISSAN SKYLINE GT-R R34 V-SPEC BY BANKSY │ FREE DOWNLOAD │ ASSETTO CORSA](https://www.youtube.com/watch?v=lvN8W79WgkM)
+- [Assetto Corsa Cinematic - DESTROY](https://www.youtube.com/watch?v=WiA85rG9rZo)
+- [R34. | Assetto Corsa Cinematic](https://www.youtube.com/watch?v=oczg4EsPRMk)
