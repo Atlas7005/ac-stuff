@@ -5,16 +5,16 @@ Here's a bunch of interesting Assetto Corsa/simracing related videos, links, and
 ## Links
 ### Mod websites
 **[`^        back to top        ^`](#ac-media)**
-- [RaceDepartment](https://www.racedepartment.com/downloads/categories/assetto-corsa.1/){:target="_blank"}
-- [AssettoWorld](https://www.assettoworld.com/){:target="_blank"}
+- [RaceDepartment](https://www.racedepartment.com/downloads/categories/assetto-corsa.1/)
+- [AssettoWorld](https://www.assettoworld.com/)
 ## Videos
 ### Tutorials
 **[`^        back to top        ^`](#ac-media)**
-- [How to Drive Faster](https://www.youtube.com/watch?v=6-sGV2XXUeU){:target="_blank"} - Skip Barber Racing School
-- [That Sim Racing Bloke Channel](https://www.youtube.com/c/ThatSimRacingBloke){:target="_blank"} - Great channel for learning how to drive faster
-- [How to Drift Playlist](https://www.youtube.com/playlist?list=PL_zW8jts9NcujUCcastpW3qcQZIPXKQl6){:target="_blank"} - CToretto
+- [How to Drive Faster](https://www.youtube.com/watch?v=6-sGV2XXUeU) - Skip Barber Racing School
+- [That Sim Racing Bloke Channel](https://www.youtube.com/c/ThatSimRacingBloke) - Great channel for learning how to drive faster
+- [How to Drift Playlist](https://www.youtube.com/playlist?list=PL_zW8jts9NcujUCcastpW3qcQZIPXKQl6) - CToretto
 ### Cinematics
 **[`^        back to top        ^`](#ac-media)**
-- [R31house // Assetto Corsa Cinematic](https://www.youtube.com/watch?v=vbdtWP_qYtY){:target="_blank"} - SatenNotFound
-- [3 AM / ASSETTO CORSA](https://www.youtube.com/watch?v=zTypuLr5sNE){:target="_blank"} - demerov
-- [Welcome To The Midnight Club | Assetto Corsa Cinematic |](https://www.youtube.com/watch?v=BqYg8DI_uoI){:target="_blank"} - Amatertu
+- [R31house // Assetto Corsa Cinematic](https://www.youtube.com/watch?v=vbdtWP_qYtY) - SatenNotFound
+- [3 AM / ASSETTO CORSA](https://www.youtube.com/watch?v=zTypuLr5sNE) - demerov
+- [Welcome To The Midnight Club | Assetto Corsa Cinematic |](https://www.youtube.com/watch?v=BqYg8DI_uoI) - Amatertu
