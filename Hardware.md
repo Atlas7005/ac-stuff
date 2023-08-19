@@ -14,7 +14,7 @@ Here's a bunch of hardware for Assetto Corsa and simracing in general.
 - [Logitech G923](https://www.logitechg.com/en-us/products/driving/g923-trueforce-sim-racing-wheel.html)
 ### Belt-driven Force Feedback Wheels (Medium-end, good overall)
 **[`^        back to top        ^`](#ac-hardware)**
-- [Thrustmaster T300](https://www.thrustmaster.com/en-us/products/t300rs-gt-edition/)
+- [Thrustmaster T300RS GT Edition](https://www.thrustmaster.com/en-us/products/t300rs-gt-edition/)
 ### Direct Drive Force Feedback Wheels (High-end)
 **[`^        back to top        ^`](#ac-hardware)**
 - [MOZA R5 (Bundle)](https://mozaracing.com/product/r5-bundle)
