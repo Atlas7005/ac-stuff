@@ -23,6 +23,11 @@ Here's a bunch of interesting Assetto Corsa/simracing related videos, links, and
 - [NISSAN SKYLINE GT-R R34 V-SPEC BY BANKSY │ FREE DOWNLOAD │ ASSETTO CORSA](https://www.youtube.com/watch?v=lvN8W79WgkM)
 - [Assetto Corsa Cinematic - DESTROY](https://www.youtube.com/watch?v=WiA85rG9rZo)
 - [R34. | Assetto Corsa Cinematic](https://www.youtube.com/watch?v=oczg4EsPRMk)
+### Spotify Playlists
+**[`^        back to top        ^`](#ac-media)**
+- [Eurobeat](https://open.spotify.com/playlist/5cGBzZ90CAJWW1L653TYJ8)
+- [Phonk](https://open.spotify.com/playlist/4qxLQEf7SqaolvIgKgD2lP)
+- [Synthwave](https://open.spotify.com/playlist/4gsAcgIDtMQidrXx4QYfcL)
 ### Screenshots
 **[`^        back to top        ^`](#ac-media)**
 [![R32PandemShutoko](https://i.imgur.com/ir0kNzq.jpg)](https://i.imgur.com/ir0kNzq.jpg)
