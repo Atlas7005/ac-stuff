@@ -9,6 +9,7 @@ Here's a bunch of interesting Assetto Corsa tracks that I've found over the year
 - [Pacific Coast](https://www.racedepartment.com/downloads/pacific-coast.12087/)
 - [Union Island](https://www.racedepartment.com/downloads/union-island.45276/)
 - [Mulholland Drive](https://www.racedepartment.com/downloads/mulholland-drive.42193/)
+- [Naruto Skyline](https://www.assettoworld.com/track/naruto-skyline-freeroam)
 ### Drift
 **[`^        back to top        ^`](#ac-track-mods)**
 - [90s Golden Drift Spot Project #1 - Hakone Ohiradai Touge (Upper course)](https://www.racedepartment.com/downloads/90s-golden-drift-spot-project-1-hakone-ohiradai-touge-upper-course.16188/)
@@ -22,9 +23,20 @@ Here's a bunch of interesting Assetto Corsa tracks that I've found over the year
 - [90s Golden Drift Spot Project #9 - Sakanotsuji Touge (坂ノ辻峠)](https://www.racedepartment.com/downloads/90s-golden-drift-spot-project-9-sakanotsuji-touge-%E5%9D%82%E3%83%8E%E8%BE%BB%E5%B3%A0.36738/)
 - [90s Golden Drift Spot Project #10 - Osaka Nanko Kamome Futo (大阪南港 カモメ埠頭)](https://www.racedepartment.com/downloads/90s-golden-drift-spot-project-10-osaka-nanko-kamome-futo-%EF%BC%88%E5%A4%A7%E9%98%AA%E5%8D%97%E6%B8%AF-%E3%82%AB%E3%83%A2%E3%83%A1%E5%9F%A0%E9%A0%AD%EF%BC%89.53012/)
 - [Gunma Cycle Sports Center aka Gunsai Touge](https://www.racedepartment.com/downloads/gunma-cycle-sports-center-aka-gunsai-touge-new-scratch-made.32941/)
-- [Akagi Mountain Pass](https://sharemods.com/4m3rpsjye2mg/ek_akagi.rar.html)
+- [EK Akagi Mountain Pass](https://sharemods.com/4m3rpsjye2mg/ek_akagi.rar.html)
 - [Usui Pass](https://www.racedepartment.com/downloads/usui-pass.15712/)
 - [Drift Playground 2021](https://www.racedepartment.com/downloads/drift-playground-2021.43530/)
-### Track
+- [EK Tsubaki Line](https://sharemods.com/j1gkps7vhx84/ek_tsubaki_line.rar.html)
+- [EK Akina](https://sharemods.com/k4hs2ecurul4/ek_akina.rar.html)
+- [EK Tsukuba Fruits Line](https://sharemods.com/g4s5pavow9oe/ek_tsukuba_fruits_line.rar.html)
+- [EK Tsukuba Fruits Line (Snow)](https://sharemods.com/i5e0yl9vlmpi/ek_tsukuba_fruits_line_snow.rar.html)
+### Racing
 **[`^        back to top        ^`](#ac-track-mods)**
 - [Tsukuba Circuit](https://www.racedepartment.com/downloads/tsukuba-circuit.2629/)
+- [Gunma Cycle Sports Center aka Gunsai Touge](https://www.racedepartment.com/downloads/gunma-cycle-sports-center-aka-gunsai-touge-new-scratch-made.32941/)
+- [EK Akagi Mountain Pass](https://sharemods.com/4m3rpsjye2mg/ek_akagi.rar.html)
+- [Usui Pass](https://www.racedepartment.com/downloads/usui-pass.15712/)
+- [EK Tsubaki Line](https://sharemods.com/j1gkps7vhx84/ek_tsubaki_line.rar.html)
+- [EK Akina](https://sharemods.com/k4hs2ecurul4/ek_akina.rar.html)
+- [EK Tsukuba Fruits Line](https://sharemods.com/g4s5pavow9oe/ek_tsukuba_fruits_line.rar.html)
+- [EK Tsukuba Fruits Line (Snow)](https://sharemods.com/i5e0yl9vlmpi/ek_tsukuba_fruits_line_snow.rar.html)
