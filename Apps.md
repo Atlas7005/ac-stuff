@@ -10,3 +10,4 @@ Here's a bunch of interesting Assetto Corsa apps that I've found over the years.
 - [Forza Horizon 4 HUD](https://www.racedepartment.com/downloads/forza-horizon-4-hud.37388/) - A HUD that looks like the one from Forza Horizon 4.
 - [Sidekick](https://www.racedepartment.com/downloads/sidekick.11007/) - A prettier and better version of the built-in Race Essentials.
 - [Initial D Arcade Boost Gauge](https://www.racedepartment.com/downloads/initial-d-arcade-boost-gauge.17575/) - A HUD boost gauge that looks like the one from Initial D Arcade Stage.
+- [Car Radar (Detailed)](https://www.racedepartment.com/downloads/car-radar.15743/) - A radar that shows the position of other cars near you.
