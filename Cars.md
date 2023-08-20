@@ -15,6 +15,7 @@ Here's a bunch of interesting Assetto Corsa cars that I've found over the years.
 - [Honda NSX](https://www.racedepartment.com/downloads/honda-nsx.4768/)
 - [2007 Subaru Impreza WRX (GD)](https://www.racedepartment.com/downloads/2007-subaru-impreza-wrx-gd-tuned.33356/)
 - [Tesla Model 3 Car Pack](https://www.racedepartment.com/downloads/2019-tesla-model-3-car-pack.45151/)
+- [Tesla Model S P100D](https://www.assettoworld.com/car/tesla-model-s-p100d)
 - [Nissan Silvia S15 Garage Mak](https://www.assettoworld.com/car/nissan-silvia-s15-garage-mak)
 - [Nissan Silvia S15 Spec-R](https://www.assettoworld.com/car/nissan-silvia-spec-r-s15-street-s2)
 - [Nissan Skyline GT-R R34 Hell-Spec](https://www.assettoworld.com/car/nissan-gt-r-r34-hell-spec)
