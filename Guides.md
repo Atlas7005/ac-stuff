@@ -20,5 +20,6 @@ If you have any problems with any of these guides, please contact me on Discord 
 2. Install Custom Shaders Patch (can be done in Content Manager by going to Settings > Custom Shaders Patch > About & Updates)
 3. Install Sol or Pure (instructions for them both are in their respective download files)
 4. Download the track and put the `content` folder in your Assetto Corsa folder (usually `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa`)
-5. Download the car pack and put the `content` folder in your Assetto Corsa folder (usually `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa`)  
+5. Download the car pack and put the `content` folder in your Assetto Corsa folder (usually `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa`)
+
 Done! You can now launch Assetto Corsa in Content Manager and join the SRP servers.
