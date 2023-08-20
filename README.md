@@ -14,3 +14,6 @@ A collection of miscellaneous mods for Assetto Corsa.
 
 ## [Hardware](Hardware.md)
 A collection of hardware related to Assetto Corsa & simracing. (Wheels, Pedals, Shifters, etc.)
+
+## [Guides](Guides.md)
+A collection of guides related to Assetto Corsa & simracing. (How to install mods, etc.)
