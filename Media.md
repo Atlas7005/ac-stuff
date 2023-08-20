@@ -25,6 +25,7 @@ Here's a bunch of interesting Assetto Corsa/simracing related videos, links, and
 - [Eurobeat](https://open.spotify.com/playlist/5cGBzZ90CAJWW1L653TYJ8)
 - [Phonk](https://open.spotify.com/playlist/4qxLQEf7SqaolvIgKgD2lP)
 - [Synthwave](https://open.spotify.com/playlist/4gsAcgIDtMQidrXx4QYfcL)
+- [Drum & Bass](https://open.spotify.com/playlist/2AKq2VhA4rDbv0e1o9YXMb)
 ## Videos
 ### Tutorials
 **[`^        back to top        ^`](#ac-media)**
