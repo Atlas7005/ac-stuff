@@ -3,6 +3,11 @@
 A collection of guides that will help you get started with Assetto Corsa.  
 If you have any problems with any of these guides, please contact me on Discord at `atlas7005`.
 
+## Table of Contents
+- [Shutoko Revival Project](#shutoko-revival-project)
+  - [Required Downloads](#required-downloads)
+  - [Installation](#installation)
+
 ## Shutoko Revival Project
 [Shutoko Revival Project](https://discord.gg/shutokorevivalproject) is a community dedicated to the recreation of the [Shuto Expressway](https://en.wikipedia.org/wiki/Shuto_Expressway) in Assetto Corsa. They have a bunch of official servers that you can join and drive on. You can find the download links for the track and car pack below.
 ### Required Downloads
