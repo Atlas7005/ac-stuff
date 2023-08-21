@@ -83,10 +83,14 @@ code {
     padding: .2em .4em;
     margin: 0;
     font-size: 85%;
-    font-weight: 600;
+    font-weight: 400;
     white-space: break-spaces;
     background-color: rgba(110, 118, 129, 0.4);
     border-radius: 6px;
+}
+
+a code {
+    font-weight: 600;
 }
 
 img {
