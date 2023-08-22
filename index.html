@@ -26,5 +26,27 @@
         <p>A collection of hardware related to Assetto Corsa &amp; simracing. (Wheels, Pedals, Shifters, etc.)</p>
         <h2><a href="/guides">Guides</a></h2>
         <p>A collection of guides related to Assetto Corsa &amp; simracing. (How to install mods, etc.)</p>
+        <h2>Latest Changes</h2>
+        <p id="last3commits">Loading...</p>
+
+        <script>
+            fetch('https://api.github.com/repos/atlas7005/ac-stuff/commits')
+                .then(response => response.json())
+                .then(data => {
+                    const last3commits = data.slice(0, 3);
+                    const last3commitsElement = document.getElementById('last3commits');
+                    last3commitsElement.innerHTML = last3commits.map(commit => {
+                        const commitDate = new Date(commit.commit.author.date);
+                        const commitDateString = commitDate.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+                        const commitTimeString = commitDate.toLocaleTimeString('en-US', { hour: 'numeric', minute: 'numeric', hour12: true });
+                        const commitMessage = commit.commit.message;
+                        const commitAuthor = commit.commit.author.name;
+                        const commitUrl = commit.html_url;
+                        return `<a href="${commitUrl}" target="_blank">${commitDateString} ${commitTimeString}</a> - ${commitMessage}`;
+                    }).join('<br>');
+                }).catch(error => {
+                    console.error(error);
+                });
+        </script>
     </body>
 </html>
