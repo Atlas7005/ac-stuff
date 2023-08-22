@@ -9,8 +9,8 @@
     <body>
         <h1>Assetto Corsa Stuff</h1>
         <p>A collection of Assetto Corsa related stuff.</p>
-        <h2>Buy Assetto Corsa</h2>
-        <p><a href="https://store.steampowered.com/app/244210/Assetto_Corsa/" target="_blank">Steam</a><br><a href="https://www.kinguin.net/category/49711/assetto-corsa-ultimate-edition-steam-cd-key" target="_blank">Cheapest Ultimate Edition (~6 EUR)</a></p>
+        <h2>Buy Assetto Corsa (for cheap)</h2>
+        <p id="prices">Loading...</p>
         <h2><a href="/media">Media</a></h2>
         <p>A collection of media related to Assetto Corsa. (Videos, Screenshots, Links, etc.)</p>
         <h2>Mods</h2>
@@ -46,6 +46,36 @@
                     }).join('<br>');
                 }).catch(error => {
                     console.error(error);
+                    document.getElementById('last3commits').innerHTML = "Failed to load latest changes.";
+                });
+
+            function displayOffer(offerObj) {
+                const price = offerObj.price.usd.price;
+                const currency = offerObj.price.usd.currency.toUpperCase();
+                const coupon = offerObj.price.usd.bestCoupon.code.replace(/^(?:\d{0,3})%:/i, "").trim();
+                const discountValue = offerObj.price.usd.bestCoupon.discountValue;
+                const discountStrategy = offerObj.price.usd.bestCoupon.discountStrategy;
+                const affiliateUrl = offerObj.affiliateUrl;
+
+                return `<a href="${affiliateUrl}" target="_blank">${price} ${currency}</a> ("${coupon}" for ${discountValue}${discountStrategy} off)`;
+            };
+
+            fetch("http://84.46.249.126:9925/https://www.allkeyshop.com/blog/wp-admin/admin-ajax.php?action=get_offers&product=1248&currency=usd&region=&edition=21&moreq=&use_beta_offers_display=1")
+                .then(response => response.json())
+                .then(data => {
+                    let standardOffers = data.offers.filter(offer => offer.edition === "1");
+                    let ultimateOffers = data.offers.filter(offer => offer.edition === "21");
+
+                    standardOffers.sort((a, b) => a.price.usd.price - b.price.usd.price);
+                    ultimateOffers.sort((a, b) => a.price.usd.price - b.price.usd.price);
+
+                    let cheapestStandardOffer = standardOffers[0];
+                    let cheapestUltimateOffer = ultimateOffers[0];
+
+                    document.getElementById("prices").innerHTML = `Standard: ${displayOffer(cheapestStandardOffer)}<br>Ultimate: ${displayOffer(cheapestUltimateOffer)}`;
+                }).catch(err => {
+                    console.error(err);
+                    document.getElementById("prices").innerHTML = "Failed to load prices.";
                 });
         </script>
     </body>
