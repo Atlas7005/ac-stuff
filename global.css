@@ -44,8 +44,16 @@ h3 {
     font-size: 1.25em;
 }
 
+iframe {
+    width: 80%;
+}
+
 p {
     margin-bottom: 16px;
+}
+
+#top {
+    text-align: center;
 }
 
 a {
@@ -97,4 +105,14 @@ img {
 
 body > *:last-child {
     margin-bottom: 0 !important;
+}
+
+@media (max-width: 768px) {
+    body {
+        max-width: 90vw;
+    }
+
+    iframe {
+        width: 100%;
+    }
 }
