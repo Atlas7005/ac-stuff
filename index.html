@@ -51,13 +51,14 @@
 
             function displayOffer(offerObj) {
                 const price = offerObj.price.usd.price;
+                const priceWoCoupon = offerObj.price.usd.priceWithoutCoupon;
                 const currency = offerObj.price.usd.currency.toUpperCase();
                 const coupon = offerObj.price.usd.bestCoupon.code.replace(/^(?:\d{0,3})%:/i, "").trim();
                 const discountValue = offerObj.price.usd.bestCoupon.discountValue;
                 const discountStrategy = offerObj.price.usd.bestCoupon.discountStrategy;
                 const affiliateUrl = offerObj.affiliateUrl;
 
-                return `<a href="${affiliateUrl}" target="_blank">${price} ${currency}</a> ("${coupon}" for ${discountValue}${discountStrategy} off)`;
+                return `<a href="${affiliateUrl}" target="_blank"><span style="text-decoration: line-through; color: rgb(53, 58, 65)">${priceWoCoupon}</span> ${price} ${currency}</a> ("${coupon}" for ${discountValue}${discountStrategy} off)`;
             };
 
             fetch("https://cors.spotchbot.com/https://www.allkeyshop.com/blog/wp-admin/admin-ajax.php?action=get_offers&product=1248&currency=usd&region=&edition=21&moreq=&use_beta_offers_display=1")
