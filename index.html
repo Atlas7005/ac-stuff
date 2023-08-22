@@ -77,7 +77,7 @@
                     let cheapestStandardOffer = standardOffers[0];
                     let cheapestUltimateOffer = ultimateOffers[0];
 
-                    document.getElementById("prices").innerHTML = `Standard: ${displayOffer(cheapestStandardOffer)}<br>Ultimate: ${displayOffer(cheapestUltimateOffer)}`;
+                    document.getElementById("prices").innerHTML = `Standard Edition: ${displayOffer(cheapestStandardOffer)}<br>Ultimate Edition: ${displayOffer(cheapestUltimateOffer)}`;
                 }).catch(err => {
                     console.error(err);
                     document.getElementById("prices").innerHTML = "Failed to load prices.";
