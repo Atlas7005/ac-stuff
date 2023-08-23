@@ -7,27 +7,34 @@
         <link rel="stylesheet" href="/global.css">
     </head>
     <body>
-        <h1>Assetto Corsa Stuff</h1>
-        <p>A collection of Assetto Corsa related stuff.</p>
-        <h2>Buy Assetto Corsa (for cheap)</h2>
-        <p id="prices">Loading...</p>
-        <h2><a href="/media">Media</a></h2>
-        <p>A collection of media related to Assetto Corsa. (Videos, Screenshots, Links, etc.)</p>
-        <h2>Mods</h2>
-        <h3><a href="/cars">Cars</a></h3>
-        <p>A collection of car mods for Assetto Corsa.</p>
-        <h3><a href="/tracks">Tracks</a></h3>
-        <p>A collection of track mods for Assetto Corsa.</p>
-        <h3><a href="/apps">Apps</a></h3>
-        <p>A collection of app mods for Assetto Corsa.</p>
-        <h3><a href="/misc">Misc</a></h3>
-        <p>A collection of miscellaneous mods for Assetto Corsa.</p>
-        <h2><a href="/hardware">Hardware</a></h2>
-        <p>A collection of hardware related to Assetto Corsa &amp; simracing. (Wheels, Pedals, Shifters, etc.)</p>
-        <h2><a href="/guides">Guides</a></h2>
-        <p>A collection of guides related to Assetto Corsa &amp; simracing. (How to install mods, etc.)</p>
-        <h2>Latest Changes</h2>
-        <p id="last3commits">Loading...</p>
+        <main>
+            <h1>Assetto Corsa Stuff</h1>
+            <p>A collection of Assetto Corsa related stuff.</p>
+            <h2>Buy Assetto Corsa (for cheap)</h2>
+            <p id="prices">Loading...</p>
+            <h2><a href="/media">Media</a></h2>
+            <p>A collection of media related to Assetto Corsa. (Videos, Screenshots, Links, etc.)</p>
+            <h2><a href="/hardware">Hardware</a></h2>
+            <p>A collection of hardware related to Assetto Corsa &amp; simracing. (Wheels, Pedals, Shifters, etc.)</p>
+            <h2><a href="/guides">Guides</a></h2>
+            <p>A collection of guides related to Assetto Corsa &amp; simracing. (How to install mods, etc.)</p>
+            <h2>Mods</h2>
+            <h3><a href="/cars">Cars</a></h3>
+            <p>A collection of car mods for Assetto Corsa.</p>
+            <h3><a href="/tracks">Tracks</a></h3>
+            <p>A collection of track mods for Assetto Corsa.</p>
+            <h3><a href="/apps">Apps</a></h3>
+            <p>A collection of app mods for Assetto Corsa.</p>
+            <h3><a href="/misc">Misc</a></h3>
+            <p>A collection of miscellaneous mods for Assetto Corsa.</p>
+            <h2>Latest Changes</h2>
+            <p id="last3commits">Loading...</p>
+        </main>
+        <footer>
+            <p>Created by <a href="https://github.com/Atlas7005/" target="_blank">Atlas7005</a>.</p>
+            <p>Source code available on <a href="https://github.com/Atlas7005/ac-stuff/" target="_blank">GitHub</a>.</p>
+            <p>Assetto Corsa is a trademark of Kunos Simulazioni S.r.l. This website is not affiliated with Kunos Simulazioni S.r.l.</p>
+        </footer>
 
         <script>
             fetch('https://api.github.com/repos/atlas7005/ac-stuff/commits')
@@ -62,7 +69,6 @@
                 } else {
                     return `<a href="${affiliateUrl}" target="_blank">${price} ${currency}</a>`;
                 }
-
             };
 
             fetch("https://cors.spotchbot.com/https://www.allkeyshop.com/blog/wp-admin/admin-ajax.php?action=get_offers&product=1248&currency=eur&region=&edition=21&moreq=&use_beta_offers_display=1")

@@ -16,14 +16,23 @@ html {
 }
 
 body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+main {
     max-width: 40vw;
-    padding: 2rem 0;
-    margin: 0 auto;
+    padding-top: 2rem;
+    flex: 1;
+    width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
     margin-top: 24px;
-    margin-bottom: 16px;
+    margin-bottom: 14px;
     font-weight: 600;
     line-height: 1.25;
 }
@@ -42,6 +51,18 @@ h2 {
 
 h3 {
     font-size: 1.25em;
+}
+
+footer {
+    text-align: center;
+    font-size: 1rem;
+    padding: 2rem 0;
+    max-width: 40vw;
+    width: 100%;
+}
+
+footer p {
+    margin-bottom: 0;
 }
 
 iframe {
@@ -103,12 +124,12 @@ img {
     box-sizing: content-box;
 }
 
-body > *:last-child {
-    margin-bottom: 0 !important;
+main > p:last-of-type {
+    margin-bottom: 0;
 }
 
 @media (max-width: 768px) {
-    body {
+    main, footer {
         max-width: 90vw;
     }
 
