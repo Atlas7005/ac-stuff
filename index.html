@@ -65,7 +65,12 @@
             fetch('https://api.github.com/repos/atlas7005/ac-stuff/commits')
                 .then(response => response.json())
                 .then(data => {
-                    const last3commits = data.slice(0, 3);
+                    const last3commits = data.filter(x => {
+                        if(x.commit.message.startsWith('Merge')) {
+                            return false;
+                        }
+                        return true;
+                    }).slice(0, 3);
                     const last3commitsElement = document.getElementById('last3commits');
                     last3commitsElement.innerHTML = last3commits.map(commit => {
                         const commitDate = new Date(commit.commit.author.date);
