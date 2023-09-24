@@ -76,10 +76,38 @@
                         const commitDate = new Date(commit.commit.author.date);
                         const commitDateString = commitDate.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
                         const commitTimeString = commitDate.toLocaleTimeString('en-US', { hour: 'numeric', minute: 'numeric', hour12: true });
-                        const commitMessage = commit.commit.message;
+                        let commitMessage = commit.commit.message;
+                        const matches = commitMessage.match(/\[(.*?)\]/gi);
+                        switch (matches[0].toLowerCase()) {
+                            case "[servers]":
+                                commitMessage = commitMessage.replace(matches[0], `<a href="/servers">${matches[0]}</a>`);
+                                break;
+                            case "[cars]":
+                                commitMessage = commitMessage.replace(matches[0], `<a href="/cars">${matches[0]}</a>`);
+                                break;
+                            case "[tracks]":
+                                commitMessage = commitMessage.replace(matches[0], `<a href="/tracks">${matches[0]}</a>`);
+                                break;
+                            case "[apps]":
+                                commitMessage = commitMessage.replace(matches[0], `<a href="/apps">${matches[0]}</a>`);
+                                break;
+                            case "[misc]":
+                                commitMessage = commitMessage.replace(matches[0], `<a href="/misc">${matches[0]}</a>`);
+                                break;
+                            case "[media]":
+                                commitMessage = commitMessage.replace(matches[0], `<a href="/media">${matches[0]}</a>`);
+                                break;
+                            case "[hardware]":
+                                commitMessage = commitMessage.replace(matches[0], `<a href="/hardware">${matches[0]}</a>`);
+                                break;
+                            case "[guides]":
+                                commitMessage = commitMessage.replace(matches[0], `<a href="/guides">${matches[0]}</a>`);
+                                break;
+                            default:
+                                break;
+                        }
                         const commitAuthor = commit.commit.author.name;
-                        const commitUrl = commit.html_url;
-                        return `<a href="${commitUrl}" target="_blank">${commitDateString} ${commitTimeString}</a> - ${commitMessage}`;
+                        return `<i><b>${commitDateString} ${commitTimeString}</b></i> - ${commitMessage}`;
                     }).join('<br>');
                 }).catch(error => {
                     console.error(error);
